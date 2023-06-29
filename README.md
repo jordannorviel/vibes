@@ -1,8 +1,9 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       title="worm report"
        author="Jordan Angel Norviel"
+       banner="https://commons.wikimedia.org/wiki/File:Picture_Natural_History_-_No_298_-_The_Earth-worm.png"
        layout="vertical">
 
 ### Introduction
