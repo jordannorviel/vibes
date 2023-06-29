@@ -11,6 +11,6 @@
 <param ve-image label="worm in dirt" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Earthworm_01.jpg">
 <param ve-entity eid="Q211036" title="stimulant">
 <param ve-entity eid="Q46429" title=“Guarani people”>
-<param ve-entity eid="Q60235" title="caffeine”>
+<param ve-entity eid="Q60235" title="caffeine">
 
 
