@@ -3,7 +3,7 @@
 <param ve-config 
        title="worm report"
        author="Jordan Angel Norviel"
-       banner="https://commons.wikimedia.org/wiki/File:Picture_Natural_History_-_No_298_-_The_Earth-worm.png"
+       banner="https://upload.wikimedia.org/wikipedia/commons/3/3c/Picture_Natural_History_-_No_298_-_The_Earth-worm.png"
        layout="vertical">
 
 ### Introduction
