@@ -14,5 +14,6 @@ url="Black_Swallowtail_Papilio_polyxenes_Closeup.jpeg">
 <param ve-video vid="XVjTwkrVhtY"><param ve-entity eid="Q211036" title="stimulant">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q60235" title="caffeine">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hs1598-85">
 
 
