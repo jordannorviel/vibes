@@ -21,7 +21,7 @@ url="Black_Swallowtail_Papilio_polyxenes_Closeup.jpeg">
 ### map 
 this is a map 
 <param ve-map= "worm village" center="41.16389688909909, -104.75244704705727" zoom="1">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/jordannorviel/vibes/main/map1.json">
+
 ### Timeline
 the following is a timeline
 <param ve-knightlab-timeline
