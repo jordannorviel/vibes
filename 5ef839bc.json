@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#65963af6-73b3-4c5d-badc-1b129aa425a8"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "worm butt",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Worm_heraldic.svg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:87.52568817138672,12.80817985534668,21.278350830078125,18.786727905273438"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#77fac3a9-b985-43a7-a0df-11dd9c277814"
   }
 ]
