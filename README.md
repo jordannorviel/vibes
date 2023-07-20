@@ -20,7 +20,7 @@ url="Black_Swallowtail_Papilio_polyxenes_Closeup.jpeg">
 <param ve-iframe src="https://archive.org/details/sensitiveplant00shel/page/n9/mode/2up?view=theater">
 ### map 
 this is a map 
-<param ve-map= "worm village" center="41.16389688909909, -104.75244704705727" zoom="6">
+<param ve-map= "worm village" center="41.16389688909909, -104.75244704705727" zoom="1">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jordannorviel/vibes/main/map1.json">
 ### Timeline
 the following is a timeline
