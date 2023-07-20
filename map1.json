@@ -1,0 +1,31 @@
+ "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.64487977291863,
+          19.147293796817195
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -66.42560733769855,
+          18.185748693830945
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
